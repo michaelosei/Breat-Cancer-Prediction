@@ -1,9 +1,11 @@
 # Breast-Cancer-Wisconsin-Diagnostic-DataSet-Prediction
 
-Problem: Breast cancer is a disease in which cells in the breast grow out of control. It is malignant cell growth in the breast. The purpose of this research is to create a machine learning model that can identify whether if a tumor in the breast is considered as Malignant or benign. Malignant tumor means the mass is cancerous and Benigh means the tumor is not dangerous.
+## Problem
+Breast cancer is a disease in which cells in the breast grow out of control. It is malignant cell growth in the breast. The purpose of this research is to create a machine learning model that can identify whether if a tumor in the breast is considered as Malignant or benign. Malignant tumor means the mass is cancerous and Benigh means the tumor is not dangerous.
 
+## Data Collection
 I collected 569 rows of data from the wisconsin breast cancer diagnostic data set to train and predict if a new patience will be considered as Malignant or Benign based on the below independent variables
-
+### Varibles
 1) ID number
 2) Diagnosis (M = malignant, B = benign)
 -3-32.Ten real-valued features are computed for each cell nucleus:
@@ -31,7 +33,7 @@ j). fractal dimension ("coastline approximation" - 1)
 The mean, standard error and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features. For instance, field 3 is Mean Radius, field 13 is Radius SE, field 23 is Worst Radius.
 All feature values are recoded with four significant digits.
 
-Data Set Information:
+## Data Set Information:
 
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. A few of the images can be found at [Web Link]
 
