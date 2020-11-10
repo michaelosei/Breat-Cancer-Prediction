@@ -7,7 +7,9 @@ Extracted 569 data from the wisconsin breast cancer diagnostic data set to train
 -3-32.Ten real-valued features are computed for each cell nucleus:
 
 a) radius (mean of distances from center to points on the perimeter)
+
 b) texture (standard deviation of gray-scale values)
+
 c) perimeter
 d) area
 e) smoothness (local variation in radius lengths)
