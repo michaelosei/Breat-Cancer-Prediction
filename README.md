@@ -5,7 +5,7 @@ Breast cancer is a disease in which cells in the breast grow out of control. It 
 
 ## Data Collection
 I collected 569 rows of data from the wisconsin breast cancer diagnostic data set to train and predict if a new patience will be considered as Malignant or Benign based on the below independent variables
-### Varibles
+### Variables
 1) ID number
 2) Diagnosis (M = malignant, B = benign)
 -3-32.Ten real-valued features are computed for each cell nucleus:
